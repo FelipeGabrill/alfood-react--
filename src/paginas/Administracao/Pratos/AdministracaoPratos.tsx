@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import IRestaurante from "../../../interfaces/IRestaurante";
 import { Button, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from "@mui/material";
 import { Link as RouterLink } from "react-router-dom";
 import http from "../../../http";
